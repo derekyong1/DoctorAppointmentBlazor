@@ -1,0 +1,28 @@
+# .NET Build Artifacts
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.dll
+*.exe
+*.log
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Dependency Directories
+/packages/
+/node_modules/
+
+# Environment Variables
+appsettings.json
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
